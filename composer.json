@@ -35,7 +35,7 @@
         "roave/infection-static-analysis-plugin": "^1.3",
         "vimeo/psalm": "^4.1",
         "yiisoft/di": "^3.0@dev",
-        "phan/phan": "^3.0"
+        "phan/phan": "^4.0"
     },
     "autoload": {
         "psr-4": {
